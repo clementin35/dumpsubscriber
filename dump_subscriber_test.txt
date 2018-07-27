@@ -1,0 +1,425 @@
+Bucket[1851][Depth: 1][Elements: 
+   [KEY(0): 72229]
+   [KEY(1): 11]
+   [KEY(2): null][HC: 72229][IDX: 1851]
+      IMSubscriber:
+      -------------
+      PbxSubscriber 6702246 [RSRCID: 72229][PVMRSRCID: -1][NAME: null][TYPE: cs2000vpn][DOM: 11:11]
+      [PTY: <sip:dummypbx2@sogpssip1.com>][ROOTDOM: sogpssip1.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: N][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EET][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:5296197] [current time (secs):1487147853] [exp time (secs):1487070141] [reginfo event:0] [ID:93] [replace uri:false] [CPL based:false] [dispName:null] <sip:dummypbx2@217.78.102.16:5090;behindnat;norteldevice=asteriskpbx;ntlocs=438;trusted
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5090
+      >;id=93;expires=1085]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [RINGTONE: null]
+      [Assigned Services: nortel:advscr]
+      [Service Profiles:
+      - Service Name: nortel:advscr]
+      [LocationID: 438]
+      [Roaming: N]
+      [Billing DN: 9876543210]
+      [LTIDs: null]]
+Bucket[1862][Depth: 1][Elements: 
+   [KEY(0): 72240]
+   [KEY(1): 11]
+   [KEY(2): null][HC: 72240][IDX: 1862]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 9432614 [RSRCID: 72240][PVMRSRCID: -1][NAME: emre one][TYPE: asftswtch][DOM: 11:11]
+      [PTY: <sip:emre1@sogpssip1.com>][ROOTDOM: sogpssip1.com]
+      [LOCALE: en_US][HOME LANGUAGE: en][HOME COUNTRY: US]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: 3103102][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 1310][REDIR_COS_ID: 1310]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: Y][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:meetme, nortel:voicemail, nortel:musiconhold, nortel:callingname, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:addrbook, nortel:allowedclients, nortel:multipleregister, nortel:ucomm, nortel:callpickup, nortel:speeddial]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:meetme
+      - Service Name: nortel:voicemail
+      - Service Name: nortel:musiconhold
+      - Service Name: nortel:callingname
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:allowedclients
+      - Service Name: nortel:multipleregister
+      - Service Name: nortel:ucomm
+      - Service Name: nortel:callpickup
+      - Service Name: nortel:speeddial]
+      [LocationID: 2262]
+      [Roaming: N]]
+Bucket[1864][Depth: 1][Elements: 
+   [KEY(0): 72242]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72242][IDX: 1864]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 13514570 [RSRCID: 72242][PVMRSRCID: -1][NAME: ua1100000 ua1100000][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100000@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:12974209] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100000@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1865][Depth: 1][Elements: 
+   [KEY(0): 72243]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72243][IDX: 1865]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 8701358 [RSRCID: 72243][PVMRSRCID: -1][NAME: ua1100001 ua1100001][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100001@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:20847122] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100001@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1866][Depth: 1][Elements: 
+   [KEY(0): 72244]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72244][IDX: 1866]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 32534760 [RSRCID: 72244][PVMRSRCID: -1][NAME: ua1100002 ua1100002][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100002@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:2208814] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100002@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1867][Depth: 1][Elements: 
+   [KEY(0): 72245]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72245][IDX: 1867]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 11569400 [RSRCID: 72245][PVMRSRCID: -1][NAME: ua1100003 ua1100003][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100003@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:12335911] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100003@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1868][Depth: 1][Elements: 
+   [KEY(0): 72246]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72246][IDX: 1868]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 3484503 [RSRCID: 72246][PVMRSRCID: -1][NAME: ua1100004 ua1100004][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100004@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:30377215] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100004@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1869][Depth: 1][Elements: 
+   [KEY(0): 72247]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72247][IDX: 1869]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 21252478 [RSRCID: 72247][PVMRSRCID: -1][NAME: ua1100005 ua1100005][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100005@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:19183255] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100005@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1870][Depth: 1][Elements: 
+   [KEY(0): 72248]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72248][IDX: 1870]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 6129815 [RSRCID: 72248][PVMRSRCID: -1][NAME: ua1100006 ua1100006][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100006@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:21997934] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100006@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1871][Depth: 1][Elements: 
+   [KEY(0): 72249]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72249][IDX: 1871]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 12246624 [RSRCID: 72249][PVMRSRCID: -1][NAME: ua1100007 ua1100007][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100007@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:16558789] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100007@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1872][Depth: 1][Elements: 
+   [KEY(0): 72250]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72250][IDX: 1872]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 14087720 [RSRCID: 72250][PVMRSRCID: -1][NAME: ua1100008 ua1100008][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100008@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:3122025] [current time (secs):1487147853] [exp time (secs):1487062509] [reginfo event:0] [ID:0] [replace uri:true] [CPL based:false] [dispName:null] <sip:ua1100008@47.168.155.141:5100;maddr=47.168.155.141;norteldevice=nesprofile;ntlocs=80446;transport=UDP
+      TransportInfo:
+      Active Transport index:2
+      xport=udp,port=5100
+      >;id=0;expires=1056]][IS MONITORED: N][ADMIN: N]
+      [CLNG NAME DISP: N][CLNG PIC DISP: N][DTG SVC: N][CONVMOBILITY: N][MLPP USER: N]
+      [Assigned Services: nortel:presence, nortel:im, nortel:imchat, nortel:clicktocall, nortel:audioconf, nortel:advscr, nortel:cfwdvariants, nortel:callpark, nortel:callreturn, nortel:ncwd, nortel:addrbook, nortel:callpickup]
+      [Service Profiles:
+      - Service Name: nortel:presence
+      - Service Name: nortel:im
+      - Service Name: nortel:imchat
+      - Service Name: nortel:clicktocall
+      - Service Name: nortel:audioconf
+      - Service Name: nortel:advscr
+      - Service Name: nortel:cfwdvariants
+      - Service Name: nortel:callpark
+      - Service Name: nortel:callreturn
+      - Service Name: nortel:ncwd
+      - Service Name: nortel:addrbook
+      - Service Name: nortel:callpickup]
+      [LocationID: 0]
+      [Roaming: N]]
+Bucket[1873][Depth: 1][Elements: 
+   [KEY(0): 72251]
+   [KEY(1): 72241]
+   [KEY(2): null][HC: 72251][IDX: 1873]
+      IMSubscriber:
+      -------------
+      SubscriberPrxy 33245819 [RSRCID: 72251][PVMRSRCID: -1][NAME: ua1100009 ua1100009][TYPE: asftswtch][DOM: 72241:72241]
+      [PTY: <sip:ua1100009@satraffic11.com>][ROOTDOM: satraffic11.com]
+      [LOCALE: en_US][HOME LANGUAGE: null][HOME COUNTRY: null]
+      [PRSTNT: N][STATUS: 0][REASON: 0][AUTHSIP: N][AUTHPSTN: N]
+      [VM: N:N][VMServerDN: null][VMMsgSummary: null]
+      [HASCPL: N][DefaultCPLType: 3][DN: null][CHG-ID: null:(null)]
+      [FOREIGN: N][HASPRES: Y][HasPDSNotify: N][COS_ID: 0][REDIR_COS_ID: 0]
+      [CS2KLINE: N][EPID_CALLSERVER: null][VMG: null][TYPENAME: null][STATIC: N][MCT: N][MCTAUTOTRACE: N][MCTTERMINATINGTRACE: N]
+      [TIMEZONE: EST][LASTCALLER: N][LASTCALLTIME: -1][STARCODEPIN: N][LASTCALLEDNUMBER: N][SUBRPRXYACTMGR: N]
+      [SAL: null:N]
+      [REGDEST (dbg): [IHC:26305386] [curren

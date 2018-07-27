@@ -1,0 +1,7 @@
+
+        *** MCP Platform Release ***
+
+System Type:     mcp_core_linux_ple4
+Release Level:   17.0.20 (via patching)
+Hardware Env:    RedHat-KVM
+
